@@ -1,4 +1,4 @@
-# lion_advent_calendar_parser
+# lion club advent calendar parser
 The lions club in my city makes an advent calendar every year.  
 They publish the new winners on their website every day. To avoid having to look up the winners manually every day I wrote this little parser.
 
